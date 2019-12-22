@@ -1,6 +1,7 @@
 Topic(Hot Spot and Hot Zone Analysis):  
-  ST_Contains And ST_Within
-  NYC Taxi Trip Trip Dataset
+
+    ST_Contains And ST_Within  
+    NYC Taxi Trip Trip Dataset
 
 To Run the demo, make sure you configure the system by following steps:
 
