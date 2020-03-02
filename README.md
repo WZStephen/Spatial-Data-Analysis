@@ -1,11 +1,11 @@
-Topic(Hot Spot and Hot Zone Analysis):  
+## Topic(Hot Spot and Hot Zone Analysis):  
 
     ST_Contains And ST_Within  
     NYC Taxi Trip Trip Dataset
 
-To Run the demo, make sure you configure the system by following steps:
+###To Run the demo, make sure you configure the system by following steps:
 
-Requirements:
+###Requirements:
 Spark 2.4.5 +  
 Java-JDK
 
