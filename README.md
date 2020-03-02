@@ -4,9 +4,8 @@ ST_Contains And ST_Within With NYC Taxi Trip Trip Dataset
 ### To Run the demo, make sure you configure the system by following steps:
 
 ### Requirements:
-    wget "https://downloads.apache.org/spark/spark-3.0.0-preview2/spark-3.0.0-preview2-bin-hadoop2.7.tgz"
-    tar -zxvf spark-3.0.0-preview2-bin-hadoop2.7.tgz
-    sudo mn spark-3.0.0-preview2-bin-hadoop2.7 spark
+    git clone https://github.com/WZStephen/Spark-2.3.4.git
+    sudo mn Spark-2.3.4 spark
     sudo apt install default-jre
     
 ### 1. Configure the Spark in ~/.bashrc (copy and paste the following)
