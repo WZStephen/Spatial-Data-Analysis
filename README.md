@@ -24,3 +24,5 @@
        http://<driver-node>:4040 #Spark Web GUI
 
 ### 3. Run './start.sh', and the result will be shown in output_phase1 & output_phase2 folders
+        sudo chmod a+rwx Spatial-Data-Analysis/
+        ./start.sh
