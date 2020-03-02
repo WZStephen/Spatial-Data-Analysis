@@ -14,7 +14,7 @@
          SPARK_HOME=~/spark
          export PATH=$SPARK_HOME/bin:$PATH
 
-Where '~/spark' is the directory that your Spark's folder
+#### Where '~/spark' is the directory that your Spark's folder
 
 2. Then run 'source ~/.bashrc' to update the bash file
 
