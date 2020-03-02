@@ -6,7 +6,7 @@ Topic(Hot Spot and Hot Zone Analysis):
 To Run the demo, make sure you configure the system by following steps:
 
 Requirements:
-Spark 2.4.5 +
+Spark 2.4.5 +  
 Java-JDK
 
 1. Configure the Spark in ~/.bashrc (copy and paste the following)
