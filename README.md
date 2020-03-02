@@ -5,7 +5,7 @@ ST_Contains And ST_Within With NYC Taxi Trip Trip Dataset
 
 ### Requirements:
     git clone https://github.com/WZStephen/Spark-2.3.4.git
-    sudo mn Spark-2.3.4 spark
+    mn Spark-2.3.4 spark
     sudo apt install default-jre
     
 ### 1. Configure the Spark in ~/.bashrc (copy and paste the following)
