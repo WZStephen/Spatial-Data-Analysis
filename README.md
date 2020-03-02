@@ -21,8 +21,8 @@ Using Scala version 2.11.8, OpenJDK 64-Bit Server VM, 1.8.0_242
 ### 2. Then run 'source ~/.bashrc' to update the bash file
 
 #### Test Spark installation by 
-       spark-shell
-       http://<driver-node>:4040 #Spark Web GUI
+       spark-shell #Run scala bash compiler
+       http://<driver-node>:4040 #Access Spark web GUI
 
 ### 3. Run './start.sh', and the result will be shown in output_phase1 & output_phase2 folders
         cd Spatial-Data-Analysis
