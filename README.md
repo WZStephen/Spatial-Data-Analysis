@@ -7,6 +7,8 @@
 
 ### Requirements:
     wget "https://downloads.apache.org/spark/spark-3.0.0-preview2/spark-3.0.0-preview2-bin-hadoop2.7.tgz"
+    tar -zxvf spark-3.0.0-preview2-bin-hadoop2.7.tgz
+    sudo mn spark-3.0.0-preview2-bin-hadoop2.7 spark
     sudo apt install default-jre
     
 ### 1. Configure the Spark in ~/.bashrc (copy and paste the following)
