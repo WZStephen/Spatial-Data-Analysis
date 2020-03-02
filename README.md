@@ -25,3 +25,5 @@ ST_Contains And ST_Within With NYC Taxi Trip Trip Dataset
         cd Spatial-Data-Analysis
         sudo chmod a+rwx start.sh
         ./start.sh
+### Other Useful Command
+        sbt assembly clean # To pack up the workspace
