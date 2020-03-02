@@ -8,7 +8,7 @@ Spark Version: 2.3.4
 Using Scala version 2.11.8, OpenJDK 64-Bit Server VM, 1.8.0_242
 
     git clone https://github.com/WZStephen/Spark-2.3.4.git
-    mn Spark-2.3.4 spark
+    mv Spark-2.3.4 spark
     sudo apt-get install openjdk-8-jdk
     #If you have more than one Java version installed on your system use following command to switch versions
     sudo update-alternatives --config java 
