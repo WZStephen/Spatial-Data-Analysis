@@ -9,7 +9,7 @@ Using Scala version 2.11.8, OpenJDK 64-Bit Server VM, 1.8.0_242
 
     git clone https://github.com/WZStephen/Spark-2.3.4.git
     mn Spark-2.3.4 spark
-    sudo apt install default-jre
+    sudo apt-get install openjdk-8-jdk
     
 ### 1. Configure the Spark in ~/.bashrc (copy and paste the following)
         SPARK_HOME=~/spark
