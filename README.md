@@ -16,6 +16,7 @@ Using Scala version 2.11.8, OpenJDK 64-Bit Server VM, 1.8.0_242
 ### 1. Configure the Spark in ~/.bashrc (copy and paste the following)
         SPARK_HOME=~/spark
         export PATH=$SPARK_HOME/bin:$PATH
+        export PYSPARK_PYTHON=/usr/bin/python3
 
 #### Where '~/spark' is the directory that your Spark's folder
 
